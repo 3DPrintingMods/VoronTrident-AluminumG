@@ -3,6 +3,10 @@
 
 ## 6mm belts
 
+<p align="center">
+  <img src="images/6mm-1.png">
+</p>
+
 
 ## 9mm belts
 
