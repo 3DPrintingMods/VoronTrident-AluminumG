@@ -3,8 +3,16 @@
 
 ## 6mm belts
 
+CNC version
+
 <p align="center">
   <img src="images/6mm-1.png">
+</p>
+
+LASER cut version
+
+<p align="center">
+  <img src="images/6mm-2.png">
 </p>
 
 
