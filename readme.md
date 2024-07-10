@@ -28,3 +28,7 @@ Because the belts are extended 3mm upwards and 3mm downwards (keeping the distan
   <img src="images/9mm-2.png">
 </p>
 
+
+### Changelog
+
+- 07/09/2024 - Added Steve's circlip mod for 38mm shafts (usermods/Steve/A_Drive_Rear_9mm_38mmStepper_Circlip.step)
